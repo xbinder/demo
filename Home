@@ -1,0 +1,73 @@
+<p>Our doors are open and we have all the latest models of your favourite running shoes, apparel and accessories. Our running groups have also been hitting the streets of Toronto in preparation for races such as the Yonge Street 10K, The Boston Marathon, The Goodlife Marathon, Sporting Life 10K and many more.  If you are just starting out or a seasoned pro, we have the gear and a community for you! </p>
+<div class="container">
+    <div class="left"> <a href="http://blacktoerunning.com/about-us/"><img src="http://blacktoerunning.com/content/home1.png" /></a>
+      <div class="details">
+        <a href="http://blacktoerunning.com/about-us/">
+        	<img src="http://www.blacktoerunning.com/themes/images/linkcorner.png" />
+        <p><strong>Hours of Operation</strong></p>
+        <p><span class="yellow">Monday - Friday 10am - 9pm<br />
+          Saturday 10am - 6pm <br />
+          Sunday 8:30am - 5pm </span></p></a>
+      </div>
+    </div>
+    <div class="right"> <a href="http://blacktoerunning.com/contact-us/"><img src="http://blacktoerunning.com/content/home2.png" /></a>
+      <div class="details">
+        <a href="http://blacktoerunning.com/contact-us/">
+        	<img src="http://www.blacktoerunning.com/themes/images/linkcorner.png" />
+           
+        <p><strong>LOCATION:</strong><br />
+          95 Bathurst Street <span class="yellow">@King Street West</span>, Toronto M5V 0H7 <br />
+        416-792-7223</p></a>   
+      </div>
+    </div>
+</div>
+<div class="container highlight">
+	<p>COACHING &amp; FREE RUN GROUPS</p>
+</div>
+<div class="container">
+    <div class="left"> <a href="http://blacktoerunning.com/18/Run/"><img src="http://blacktoerunning.com/content/home3.png" /></a>
+      <div class="details">
+        <a href="http://blacktoerunning.com/18/Run/">
+        	<img src="http://www.blacktoerunning.com/themes/images/linkcorner.png" />
+       
+        <p><span class="yellow">FREE RUN GROUPS:</span><br />
+          We offer free drop in runs for beginners through to advanced level runners</p> </a>      
+      </div>
+    </div>
+    <div class="right"> <img src="http://blacktoerunning.com/store_images/customcontent/3/Group%20Shot%20%20NB%20Run%20Feb%202014%20v2.png" class="customimage" border="0" height="279" width="511" />
+      <div class="details">
+        <a href="http://blacktoerunning.com/39/Coaching/">
+        	<img src="http://www.blacktoerunning.com/themes/images/linkcorner.png" />
+           
+        <p><span class="yellow">COACHING:</span> <br />
+          If you want to train with a group or push through to the next level we also have personalized coaching services.</p></a>   
+      </div>
+    </div>
+</div>
+<div class="container">
+    <div class="twitter-left">
+<br />
+<a href="https://twitter.com/BlackToeRunning" width="550" height="570" class="twitter-timeline" data-widget-id="454624550643183618">Tweets by @BlackToeRunning</a>
+    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+ </div>
+    <div class="fb-right"> 
+<br />
+  <div id="insertFBfeed">
+
+  </div>
+
+    </div></div>
+<div class="container">
+<br />
+<iframe src="http://ytchannelembed.com/gallery.php?vids=2&amp;user=UCRxfn0jnVHh-Hi3QhPUj_nA&amp;row=2&amp;width=517&amp;hd=1&amp;margin_right=15&amp;desc=100&amp;desc_color=9E9E9E&amp;title=30&amp;title_color=000000&amp;views=1&amp;likes=1&amp;dislikes=1&amp;fav=1&amp;playlist=" marginheight="0" style="height: 443px" scrolling="no" frameborder="0" width="1015"></iframe>
+</div>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-50370033-1', 'blacktoerunning.com');
+  ga('send', 'pageview');
+
+</script>
